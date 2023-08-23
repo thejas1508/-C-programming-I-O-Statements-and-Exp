@@ -1,0 +1,5 @@
+Enter the Number :50
+
+The sum of Odd numbers is :625. 
+The sum of Even numbers is :600.
+The Difference between sum of Odd and sum of Even :25.
